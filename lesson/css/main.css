@@ -1,3 +1,18 @@
+nav menu li{
+   border: 2px solid #fc635e;
+}
+.recive .icons {
+   border: 2px solid #fc635e;
+}
+
+.icons > div { /*для дочернего элемента*/
+   border: 2px solid #fc635e;
+}
+
+.icons img + h4 {
+   border: 2px solid #fc635e;
+}
+/************************************************/
 .form1 {
    text-align: center;
    padding-top: 100px;
